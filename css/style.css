@@ -1,0 +1,293 @@
+@charset "utf-8";
+
+	/* ===== reset css ===== */
+		
+		html, body, div, span, applet, object, iframe, table, caption,
+		tbody, tfoot, thead, tr, th, td, del, dfn, em, font, img, ins,
+		kbd, q, s, samp, small, strike, strong, sub, sup, tt, var,
+		h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr,
+		acronym, address, big, cite, code, dl, dt, dd, ol, ul, li,
+		fieldset, form, label, legend {
+		vertical-align: baseline;
+		outline: 0;
+		padding: 0;
+		margin: 0;
+		border: 0;
+		}
+		:focus {
+		outline: 0;
+		}
+		body {
+		background: white;
+		line-height: 1;
+		color: black;
+		}
+		table {
+		border-collapse: separate;
+		border-spacing: 0;
+		}
+		caption, th, td {
+		font-weight: normal;
+		text-align: left;
+		}
+		blockquote:before, blockquote:after, q:before, q:after {
+		content: "";
+		}
+		blockquote, q {
+		quotes: "" "";
+		}
+		
+	/* ===== all pages styles ===== */
+		
+		* {
+			box-sizing: border-box;	/* ===== opera/ie 8+ ===== */
+			-webkit-box-sizing: border-box;	/* =====chrome/safari, outros webkit ===== */
+			-moz-box-sizing: border-box;	/* ===== firefox e outros gecko ===== */
+		}
+		
+		.index {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index.png') no-repeat 50% 0%;
+		}
+		
+		.clearfix {
+			clear: both;
+		}
+	
+	/* ===== pages ===== */
+		
+		.index-hover {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-hover.png') no-repeat 50% 0%;
+		}
+		
+		.index-active {
+			width: 100%;
+			height: 4500px;
+			background: url('../imgs/index-active.png') no-repeat 50% 0%;
+		}
+
+		.index-active-pesquisar {
+			width: 100%;
+			height: 4500px;
+			background: url('../imgs/index-active-pesquisar.png') no-repeat 50% 0%;
+		}
+		
+		.index-newsletter {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-newsletter.png') no-repeat 50% 0%;
+		}
+		
+
+		.index-entrar-modal {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-entrar-modal.png') no-repeat 50% 0%;
+		}
+		
+		.index-entrar-modal-hover {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-entrar-modal-hover.png') no-repeat 50% 0%;
+		}
+
+		.index-entrar-modal-active {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-entrar-modal-active.png') no-repeat 50% 0%;
+		}
+		
+		.index-entrar-modal-erro {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-entrar-modal-erro.png') no-repeat 50% 0%;
+		}
+		
+		.single-entrar {
+			width: 100%;
+			height: 1539px;
+			background: url('../imgs/single-entrar.png') no-repeat 50% 0%;
+		}
+		
+		.single-entrar-hover {
+			width: 100%;
+			height: 1539px;
+			background: url('../imgs/single-entrar-hover.png') no-repeat 50% 0%;
+		}
+		
+		.single-entrar-active {
+			width: 100%;
+			height: 1539px;
+			background: url('../imgs/single-entrar-active.png') no-repeat 50% 0%;
+		}
+
+		.single-entrar-erro {
+			width: 100%;
+			height: 1539px;
+			background: url('../imgs/single-entrar-erro.png') no-repeat 50% 0%;
+		}
+
+		.single-esqueceusuasenha {
+			width: 100%;
+			height: 1455px;
+			background: url('../imgs/single-esqueceusuasenha.png') no-repeat 50% 0%;
+		}
+		
+		.single-esqueceusuasenha-hover {
+			width: 100%;
+			height: 1455px;
+			background: url('../imgs/single-esqueceusuasenha-hover.png') no-repeat 50% 0%;
+		}
+		
+		.single-esqueceusuasenha-active {
+			width: 100%;
+			height: 1455px;
+			background: url('../imgs/single-esqueceusuasenha-active.png') no-repeat 50% 0%;
+		}
+		
+		.single-esqueceusuasenha-erro {
+			width: 100%;
+			height: 1455px;
+			background: url('../imgs/single-esqueceusuasenha-erro.png') no-repeat 50% 0%;
+		}
+		
+		.single-esqueceusuasenha-sucesso {
+			width: 100%;
+			height: 1455px;
+			background: url('../imgs/single-esqueceusuasenha-sucesso.png') no-repeat 50% 0%;
+		}
+		
+		.index-cadastro-modal {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-cadastro-modal.png') no-repeat 50% 0%;
+		}
+		
+		.index-cadastro-modal-hover {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-cadastro-modal-hover.png') no-repeat 50% 0%;
+		}
+		
+		.index-cadastro-modal-active {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-cadastro-modal-active.png') no-repeat 50% 0%;
+		}
+		
+		.index-cadastro-modal-erro {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-cadastro-modal-erro.png') no-repeat 50% 0%;
+		}
+		
+		.index-cadastro-modal-sucesso {
+			width: 100%;
+			height: 3774px;
+			background: url('../imgs/index-cadastro-modal-sucesso.png') no-repeat 50% 0%;
+		}
+		
+		.single-cadastro {
+			width: 100%;
+			height: 1572px;
+			background: url('../imgs/single-cadastro.png') no-repeat 50% 0%;
+		}
+		
+		.single-cadastro-hover {
+			width: 100%;
+			height: 1572px;
+			background: url('../imgs/single-cadastro-hover.png') no-repeat 50% 0%;
+		}
+		
+		.single-cadastro-active {
+			width: 100%;
+			height: 1572px;
+			background: url('../imgs/single-cadastro-active.png') no-repeat 50% 0%;
+		}
+		
+		.single-cadastro-erro {
+			width: 100%;
+			height: 1572px;
+			background: url('../imgs/single-cadastro-erro.png') no-repeat 50% 0%;
+		}
+		
+		.single-cadastro-sucesso {
+			width: 100%;
+			height: 1572px;
+			background: url('../imgs/single-cadastro-sucesso.png') no-repeat 50% 0%;
+		}
+		
+		.quemsomos {
+			width: 100%;
+			height: 4270px;
+			background: url('../imgs/quemsomos.png') no-repeat 50% 0%;
+		}
+		
+		.quemsomos-hover {
+			width: 100%;
+			height: 4270px;
+			background: url('../imgs/quemsomos-hover.png') no-repeat 50% 0%;
+		}
+		
+		.abrasualoja {
+			width: 100%;
+			height: 3562px;
+			background: url('../imgs/abrasualoja.png') no-repeat 50% 0%;
+		}
+		
+		.abrasualoja-hover {
+			width: 100%;
+			height: 3562px;
+			background: url('../imgs/abrasualoja-hover.png') no-repeat 50% 0%;
+		}
+		
+		.abrasualoja-active {
+			width: 100%;
+			height: 3562px;
+			background: url('../imgs/abrasualoja-active.png') no-repeat 50% 0%;
+		}
+		
+		.abrasualoja-erro {
+			width: 100%;
+			height: 3562px;
+			background: url('../imgs/abrasualoja-erro.png') no-repeat 50% 0%;
+		}
+		
+		.abrasualoja-sucesso {
+			width: 100%;
+			height: 3562px;
+			background: url('../imgs/abrasualoja-sucesso.png') no-repeat 50% 0%;
+		}
+		
+		.faleconosco {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/faleconosco.png') no-repeat 50% 0%;
+		}
+		
+		.faleconosco-hover {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/faleconosco-hover.png') no-repeat 50% 0%;
+		}
+		
+		.faleconosco-active {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/faleconosco-active.png') no-repeat 50% 0%;
+		}
+		
+		.faleconosco-erro {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/faleconosco-erro.png') no-repeat 50% 0%;
+		}
+		
+		.faleconosco-sucesso {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/faleconosco-sucesso.png') no-repeat 50% 0%;
+		}
