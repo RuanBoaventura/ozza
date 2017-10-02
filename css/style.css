@@ -297,3 +297,39 @@
 			height: 1800px;
 			background: url('../imgs/faleconosco-sucesso.png') no-repeat 50% 0%;
 		}
+		
+		.blog {
+			width: 100%;
+			height: 4337px;
+			background: url('../imgs/blog.png') no-repeat 50% 0%;
+		}
+		
+		.blog-hover {
+			width: 100%;
+			height: 4337px;
+			background: url('../imgs/blog-hover.png') no-repeat 50% 0%;
+		}
+		
+		.blog-active {
+			width: 100%;
+			height: 4337px;
+			background: url('../imgs/blog-active.png') no-repeat 50% 0%;
+		}
+		
+		.blog-post {
+			width: 100%;
+			height: 5628px;
+			background: url('../imgs/blog-post.png') no-repeat 50% 0%;
+		}
+		
+		.blog-post-hover {
+			width: 100%;
+			height: 5628px;
+			background: url('../imgs/blog-post-hover.png') no-repeat 50% 0%;
+		}
+		
+		.blog-post-active {
+			width: 100%;
+			height: 5628px;
+			background: url('../imgs/blog-post-active.png') no-repeat 50% 0%;
+		}
