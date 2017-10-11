@@ -447,3 +447,69 @@
 			height: 1532px;
 			background: url('../imgs/editarperfil-loja-dadosbancarios-aviso.png') no-repeat 50% 0%;
 		}
+		
+		.editarperfil-cliente-dadospessoais {
+			width: 100%;
+			height: 2153px;
+			background: url('../imgs/editarperfil-cliente-dadospessoais.png') no-repeat 50% 0%;
+		}
+		
+		.editarperfil-cliente-dadospessoais-hover {
+			width: 100%;
+			height: 2153px;
+			background: url('../imgs/editarperfil-cliente-dadospessoais-hover.png') no-repeat 50% 0%;
+		}
+		
+		.editarperfil-cliente-dadospessoais-active {
+			width: 100%;
+			height: 2153px;
+			background: url('../imgs/editarperfil-cliente-dadospessoais-active.png') no-repeat 50% 0%;
+		}
+
+		.editarperfil-cliente-dadospessoais-erro {
+			width: 100%;
+			height: 2153px;
+			background: url('../imgs/editarperfil-cliente-dadospessoais-erro.png') no-repeat 50% 0%;
+		}
+
+		.editarperfil-cliente-dadospessoais-sucesso {
+			width: 100%;
+			height: 2153px;
+			background: url('../imgs/editarperfil-cliente-dadospessoais-sucesso.png') no-repeat 50% 0%;
+		}
+
+		.editarperfil-cliente-dadospessoais-aviso {
+			width: 100%;
+			height: 2153px;
+			background: url('../imgs/editarperfil-cliente-dadospessoais-aviso.png') no-repeat 50% 0%;
+		}
+		
+		.editarperfil-cliente-dadosendereco {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/editarperfil-cliente-dadosendereco.png') no-repeat 50% 0%;
+		}
+		
+		.editarperfil-cliente-dadosendereco-hover {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/editarperfil-cliente-dadosendereco-hover.png') no-repeat 50% 0%;
+		}
+		
+		.editarperfil-cliente-dadosendereco-active {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/editarperfil-cliente-dadosendereco-active.png') no-repeat 50% 0%;
+		}
+
+		.editarperfil-cliente-dadosendereco-erro {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/editarperfil-cliente-dadosendereco-erro.png') no-repeat 50% 0%;
+		}
+
+		.editarperfil-cliente-dadosendereco-sucesso {
+			width: 100%;
+			height: 1736px;
+			background: url('../imgs/editarperfil-cliente-dadosendereco-sucesso.png') no-repeat 50% 0%;
+		}
