@@ -627,3 +627,21 @@
 			height: 1796px;
 			background: url('../imgs/cadastro-produtos-seo-active.png') no-repeat 50% 0%;
 		}
+		
+		.finalizacao-de-compra {
+			width: 100%;
+			height: 1717px;
+			background: url('../imgs/finalizacao-de-compra.png') no-repeat 50% 0%;
+		}
+		
+		.finalizacao-de-compra-hover {
+			width: 100%;
+			height: 1717px;
+			background: url('../imgs/finalizacao-de-compra-hover.png') no-repeat 50% 0%;
+		}
+		
+		.finalizacao-de-compra-active {
+			width: 100%;
+			height: 1717px;
+			background: url('../imgs/finalizacao-de-compra-active.png') no-repeat 50% 0%;
+		}
