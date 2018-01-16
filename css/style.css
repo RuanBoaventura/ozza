@@ -663,3 +663,21 @@
 			height: 2424px;
 			background: url('../imgs/meuspedidos-active.png') no-repeat 50% 0%;
 		}
+		
+		.dashboard-cadastro-produtos {
+			width: 100%;
+			height: 1167px;
+			background: url('../imgs/dashboard-cadastro-produtos.png') no-repeat 50% 0%;
+		}
+		
+		.dashboard-cadastro-produtos-hover {
+			width: 100%;
+			height: 1167px;
+			background: url('../imgs/mdashboard-cadastro-produtos-hover.png') no-repeat 50% 0%;
+		}
+		
+		.dashboard-cadastro-produtos-active {
+			width: 100%;
+			height: 1167px;
+			background: url('../imgs/dashboard-cadastro-produtos-active.png') no-repeat 50% 0%;
+		}
