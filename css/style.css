@@ -628,22 +628,22 @@
 			background: url('../imgs/cadastro-produtos-seo-active.png') no-repeat 50% 0%;
 		}
 		
-		.finalizacao-de-compra {
+		.envio-pagamento {
 			width: 100%;
-			height: 1717px;
-			background: url('../imgs/finalizacao-de-compra.png') no-repeat 50% 0%;
+			height: 2269px;
+			background: url('../imgs/envio-pagamento.png') no-repeat 50% 0%;
 		}
 		
-		.finalizacao-de-compra-hover {
+		.envio-pagamento-hover {
 			width: 100%;
-			height: 1717px;
-			background: url('../imgs/finalizacao-de-compra-hover.png') no-repeat 50% 0%;
+			height: 2269px;
+			background: url('../imgs/envio-pagamento-hover.png') no-repeat 50% 0%;
 		}
 		
-		.finalizacao-de-compra-active {
+		.envio-pagamento-active {
 			width: 100%;
 			height: 1717px;
-			background: url('../imgs/finalizacao-de-compra-active.png') no-repeat 50% 0%;
+			background: url('../imgs/envio-pagamento-active.png') no-repeat 50% 0%;
 		}
 		
 		.meuspedidos {
